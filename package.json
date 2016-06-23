@@ -1,24 +1,25 @@
 {
-  "name": "angular-tree-control",
-  "version": "0.2.26",
-  "description": "Angular Tree Control",
+  "name": "angular-tree-control-noconflict",
+  "version": "0.2.27",
+  "description": "Angular Tree Control (no conflict)",
   "main": "angular-tree-control.js",
   "scripts": {
     "test": "grunt test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/wix/angular-tree-control.git"
+    "url": "git://github.com/pvgnd/angular-tree-control.git"
   },
   "author": "Yoav Abrahami",
   "contributors": [
-    "Benjamin Orozco <benoror@gmail.com>"
+      "Benjamin Orozco <benoror@gmail.com>"
+      "Pierrick Vignand <pierrick.vignand@gmail.com>"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wix/angular-tree-control/issues"
+    "url": "https://github.com/pvgnd/angular-tree-control/issues"
   },
-  "homepage": "https://github.com/wix/angular-tree-control",
+  "homepage": "https://github.com/pvgnd/angular-tree-control",
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-release": "~0.6.0",
